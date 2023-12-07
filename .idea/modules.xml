@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjetoMod29.iml" filepath="$PROJECT_DIR$/ProjetoMod29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploJDBC/src/test/test.iml" filepath="$PROJECT_DIR$/ExemploJDBC/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/teste.iml" filepath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/teste.iml" />
+    </modules>
+  </component>
+</project>

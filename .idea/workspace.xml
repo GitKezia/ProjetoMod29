@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c4b922e-611b-4dc4-802c-8392ebc6861c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/IClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/domin/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/exemplos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/java/br/com/kezia/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/IClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/IProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/jdbc/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/domain/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/main/br/com/kezia/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/main/br/com/kezia/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoMod29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/55131331-81d8-4f83-9e66-cc830574aaf7/console.sql" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ZE5wcpif0zKjiH43TDh1yktmkr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "C:/Users/Pr. Adiel.DESKTOP-0ABD431.000/Documents/git/backend-java-ebac/mod29/exemplos.sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Pr. Adiel.DESKTOP-0ABD431.000/IdeaProjects/ProjetoMod29/teste/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src\teste" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src\java\main\br\com\kezia" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src\java\main" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src\test" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src\main\java\br\com\kezia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src\java\main\br\com" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src\main\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.kezia.dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="exemplos.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/exemplos.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4b922e-611b-4dc4-802c-8392ebc6861c" name="Changes" comment="" />
+      <created>1701974639537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701974639537</updated>
+      <workItem from="1701974640593" duration="8217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExemploJDBC/src/main/java/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExemploJDBC/src/test/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/jdbc/ConnectionFactory.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
