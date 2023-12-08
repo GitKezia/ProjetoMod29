@@ -5,34 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c4b922e-611b-4dc4-802c-8392ebc6861c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/ClienteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/IClienteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/domin/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/exemplos.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/java/br/com/kezia/ClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/ClienteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/IClienteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/IProdutoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/ProdutoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/dao/jdbc/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/domain/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/java/main/br/com/kezia/domain/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/main/br/com/kezia/ClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/main/br/com/kezia/ProdutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemplosJDBCAlunos/src/teste/teste.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjetoMod29.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/IProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/domin/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/java/br/com/kezia/ProdutoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/55131331-81d8-4f83-9e66-cc830574aaf7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/55131331-81d8-4f83-9e66-cc830574aaf7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/ClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExemploJDBC/src/main/java/br/com/kezia/dao/generic/jdbc/dao/ClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemploJDBC/src/test/java/br/com/kezia/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExemploJDBC/src/test/java/br/com/kezia/ClienteTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +34,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/55131331-81d8-4f83-9e66-cc830574aaf7/console.sql" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ZE5wcpif0zKjiH43TDh1yktmkr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,11 +58,12 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/Pr. Adiel.DESKTOP-0ABD431.000/Documents/git/backend-java-ebac/mod29/exemplos.sql",
+    "last_opened_file_path": "C:/Users/Pr. Adiel.DESKTOP-0ABD431.000/Documents/git/backend-java-ebac/mod29",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Pr. Adiel.DESKTOP-0ABD431.000/IdeaProjects/ProjetoMod29/teste/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -98,10 +80,11 @@
       <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src\main\java\br\com\kezia" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29" />
+      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos" />
       <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src\java\main\br\com" />
       <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemplosJDBCAlunos\src" />
       <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src" />
-      <recent name="C:\Users\Pr. Adiel.DESKTOP-0ABD431.000\IdeaProjects\ProjetoMod29\ExemploJDBC\src\main\src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="br.com.kezia.dao" />
@@ -122,7 +105,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701974639537</updated>
-      <workItem from="1701974640593" duration="8217000" />
+      <workItem from="1701974640593" duration="9206000" />
+      <workItem from="1702028915339" duration="3889000" />
     </task>
     <servers />
   </component>
